@@ -1,9 +1,9 @@
 # JavaFX Project
 Projeto JavaFX de exemplo usando Maven.
 
-Repositório original: https://github.com/domingoslatorre/javafx-project.git
+Repositório original: https://github.com/domingoslatorre/javafx-project.git .
 
-CadastroCliente, CadastroUnidade e CadastroVendedor adicionados
+CadastroCliente, CadastroUnidade e CadastroVendedor adicionados.
 
 ## Como executar
 
